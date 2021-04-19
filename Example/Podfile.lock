@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (9.0.0)
+  - Quick (3.1.2)
+  - SOFileManager (0.1.0)
+
+DEPENDENCIES:
+  - Nimble
+  - Quick
+  - SOFileManager (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  SOFileManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 3b4ec3fd40f1dc178058e0981107721c615643d8
+  Quick: 60f0ea3b8e0cfc0df3259a5c06a238ad8b3c46e0
+  SOFileManager: 65492e089b37c6a21d2cb573d9c69a4ebee1927a
+
+PODFILE CHECKSUM: 178473c1b1567bb481969672f4ddda4a8512c35d
+
+COCOAPODS: 1.10.1
